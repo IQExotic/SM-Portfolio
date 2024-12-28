@@ -1,5 +1,7 @@
 # Marketing Manager Portfolio
 
+You can preview the website [here](https://felxprinz.me/smportfolio "Preview the Website")
+
 This site is a portfolio for Marketing Managers (it can also be used as a portfolio for other professions). *Please note that I am not primarily a frontend developer; I created this website as a fun project.*
 
 ## Usage Guidelines
